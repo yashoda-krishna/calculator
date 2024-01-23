@@ -1,5 +1,5 @@
 from tkinter import *
- 
+#sd 
 def iCalc(source, side):
     storeObj = Frame(source, borderwidth=4, bd=4, bg="powder blue")
     storeObj.pack(side=side, expand =YES, fill =BOTH)
